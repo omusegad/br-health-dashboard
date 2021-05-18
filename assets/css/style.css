@@ -8286,3 +8286,12 @@ a.dropdown-item {
     border-bottom: 1px solid #eeeeee;
 	padding: 10px;
 }
+
+ul.actionbtn {
+    list-style-type: none;
+	padding: 0;
+}
+
+ul.actionbtn li {
+    display: inline-block;
+}
